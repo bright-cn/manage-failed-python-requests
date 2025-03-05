@@ -1,6 +1,6 @@
 # 在 Python 中管理失败的请求
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/) 
+[![Promo](https://github.com/bright-cn/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/) 
 
 本指南将介绍如何在 Python 中处理失败的 HTTP 请求，包括重试策略和自定义逻辑。
 
